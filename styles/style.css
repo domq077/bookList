@@ -1,7 +1,14 @@
 .title {
     text-align: center;
+    font-size: 2.5rem;
 }
 
 .addbook-form, .books {
     padding: 20px;
+}
+
+.addbook-form {
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
 }
